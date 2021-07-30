@@ -44,7 +44,7 @@
     <li>Grinding my core front-end skillset to a level where I don't have to ask uncle google for anything trivial</li>
     <li>Create my own stunning website that will knock me down every time I visit it</li>
     <li>Learn how to plan things better, because I'm really struggling with that lately</li>
-    <li>Make sure everyone will get a bug-free experience right from the start at <a href="https://xenostale.pl/">Xeno'sTale</a></li>
+    <li>Make sure everyone will get a bug-free experience right from the start at <a href="https://xenostale.pl/">Xeno's Tale</a></li>
   </ul>
 </details>
 
