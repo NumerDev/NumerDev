@@ -38,7 +38,7 @@
 
 <details open>
   <img src="https://media1.giphy.com/media/2tMYOWRjFHveuOB6jg/giphy.gif?cid=ecf05e47mk7mtf49p9ijiwlu3zdtmg5mwfcxwugl8mabqsj1&rid=giphy.gif&ct=g" height=150px width=150px align="right" />
-  <summary>I may be lazy sometimes, but I also have my own goals.</summary>
+  <summary>I may be lazy sometimes but I also have my own goals.</summary>
   <ul>
     &nbsp;
     <li>Grinding my core front-end skillset to a level where I don't have to ask uncle google for anything trivial</li>
@@ -51,7 +51,7 @@
 ### :mount_fuji: My personal challenges:
 <details open>
   <img src="https://media1.tenor.com/images/54a77e79a7091570d6a688a2c3f79332/tenor.gif?itemid=10694334" height=150px width=150px align="right" />
-  <summary>You always have to keep moving forward, even if you have to roll </summary>
+  <summary>You always have to keep moving forward even if you have to roll </summary>
   <ul>
     &nbsp;
     <li>I want to grow as a front-end dev but I know myself and I know I need something to stick with it. That's why i decided to do "x-day of coding" which I will start with 15 days and then depending on the result I will increase the number of days</li>
