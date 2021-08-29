@@ -54,7 +54,8 @@
   <summary>You always have to keep moving forward even if you have to roll </summary>
   <ul>
     &nbsp;
-    <li>I want to grow as a front-end dev but I know myself and I know I need something to stick with it. That's why i decided to do "x-day of coding" which I will start with 15 days and then depending on the result I will increase the number of days</li>
+    <li>I want to grow as a front-end dev but I know myself and I know I need something to stick with it. <s>That's why i decided to do "x-day of coding" which I will start with 15 days and then depending on the result I will increase the number of days.</s> So yes... I tried but I feel I was doing it too restrictive.
+     So at this point I won't do it every day. And instead of forcing myself sometimes when I don't feel it I will code every time I really want to.</li>
     <li>Improve my concentration as much as possible</li>
     <li>Well... not everyone has to know about everything. 🤫</li>
   </ul>
