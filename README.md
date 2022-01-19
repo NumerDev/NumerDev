@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/-Figma-%232c2f42?style=flat&logo=figma" alt="figma" />
 <img src="https://img.shields.io/badge/-Gulp-white?style=flat&logo=gulp" alt="gulp" />
 <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=Visual Studio Code" alt="vsc" />
+<img src="https://img.shields.io/badge/-React-%232c1f42?style=flat&logo=react" alt="react" />
 </p>
 &nbsp;
 <hr>
