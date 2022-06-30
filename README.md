@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/-Gulp-white?style=flat&logo=gulp" alt="gulp" />
 <img src="https://img.shields.io/badge/-Visual Studio Code-blue?style=flat&logo=Visual Studio Code" alt="vsc" />
 <img src="https://img.shields.io/badge/-React-%232c1f42?style=flat&logo=react" alt="react" />
+<img src="https://img.shields.io/badge/-Vite-%23f4f6f7?style=flat&logo=vite" alt="vite" />
+<img src="https://img.shields.io/badge/-Styled components-grey?style=flat&logo=styledcomponents" alt="styledcomponents" />
 </p>
 &nbsp;
 <hr>
