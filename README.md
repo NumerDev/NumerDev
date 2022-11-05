@@ -7,7 +7,7 @@
 ```
 ```
 🖐️: Almost everyone calls me Numer
-🏫: 2nd year BEng student
+🏫: 3rd year BEng student
 🔎: I really like finding bugs
     (and exploit them sometimes... 😏)
 🖌️: I suffer when I have to design something
@@ -15,6 +15,7 @@
 🥶: I really love the cold
 🌙: Night owl
 🧪: Game Tester at xenostale.pl
+🏢: Junior Fullstack Developer at DreamstormStudios
 🤤: Procrastination is my buddy 
     I'm trying to get rid of
 🧊: Cubes don't like me... any cubes
@@ -33,6 +34,10 @@
 <img src="https://img.shields.io/badge/-React-%232c1f42?style=flat&logo=react" alt="react" />
 <img src="https://img.shields.io/badge/-Vite-%23f4f6f7?style=flat&logo=vite" alt="vite" />
 <img src="https://img.shields.io/badge/-Styled components-grey?style=flat&logo=styledcomponents" alt="styledcomponents" />
+<img src="https://img.shields.io/badge/-Nest-black?style=flat&logo=nestjs" alt="nestjs" />
+<img src="https://img.shields.io/badge/-Make-%23f4f6f7?style=flat&logo=integromat" alt="make" />
+<img src="https://img.shields.io/badge/-Prisma-grey?style=flat&logo=prisma" alt="prisma" />
+<img src="https://img.shields.io/badge/-GSAP-black?style=flat&logo=greensock" alt="gsap" />
 </p>
 &nbsp;
 <hr>
