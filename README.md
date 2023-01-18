@@ -14,8 +14,8 @@
     but I wish I could be better at it
 🥶: I really love the cold
 🌙: Night owl
-🧪: Game Tester at xenostale.pl
-🏢: Junior Fullstack Developer at DreamstormStudios
+🧪: Head Game Tester at xenostale.pl
+🏢: Ex Fullstack Developer at DreamstormStudios
 🤤: Procrastination is my buddy 
     I'm trying to get rid of
 🧊: Cubes don't like me... any cubes
@@ -50,8 +50,8 @@
   <ul>
     &nbsp;
     <li>Grinding my core front-end skillset to a level where I don't have to ask uncle google for anything trivial</li>
-    <li>Create my own stunning website that will knock me down every time I visit it</li>
-    <li>Learn how to plan things better, because I'm really struggling with that lately</li>
+    <li>Create my own stunning website that will knock me down every time I visit it. (#edit 2023: work in progress 🤫)</li>
+    <li>Learn how to plan things better, because I'm really struggling with that lately. <b>"Failure in planning is planning a failure"</b> and i really believe in that.</li>
     <li>Make sure everyone will get a bug-free experience right from the start at <a href="https://xenostale.pl/">Xeno's Tale</a></li>
   </ul>
 </details>
@@ -59,12 +59,12 @@
 ### :mount_fuji: My personal challenges:
 <details open>
   <img src="https://media1.tenor.com/images/54a77e79a7091570d6a688a2c3f79332/tenor.gif?itemid=10694334" height=150px width=150px align="right" />
-  <summary>You always have to keep moving forward even if you have to roll </summary>
+  <summary>You always have to keep moving forward even if you have to roll</summary>
   <ul>
     &nbsp;
-    <li>I want to grow as a front-end dev but I know myself and I know I need something to stick with it. <s>That's why i decided to do "x-day of coding" which I will start with 15 days and then depending on the result I will increase the number of days.</s> So yes... I tried but I feel I was doing it too restrictive.
-     So at this point I won't do it every day. And instead of forcing myself sometimes when I don't feel it I will code every time I really want to.</li>
-    <li>Improve my concentration as much as possible</li>
+    <li>I want to grow as a front-end dev but I know myself and I know I need something to stick with it. <s>That's why i decided to do "x-day of coding" which I will start with 15 days and then depending on the result I will increase the number of days. So yes... I tried but I feel I was doing it too restrictive. So at this point I won't do it every day. And instead of forcing myself sometimes when I don't feel it I will code every time I really want to.</s> <br><br>Well, yeah... The further you go, the more your perspective changes. Being too restrictive and strict with yourself is not an ideal combination for growth. I've set myself the things I want to achieve this year, and they are not only related to the technologies themselves but also the ways to use them and take them to the highest possible level. The <b>"average"</b>results is not enough these days. I would rather be <b>inspired</b> to develop than <b>forced</b>.
+    </li>
+    <li>Improve my <s>concentration</s> <b>deep work</b> as much as possible. Focus and the absence of omnipresent distractions <b>colossally</b> increases the results.</li>
     <li>Well... not everyone has to know about everything. 🤫</li>
   </ul>
 </details>
