@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/65687304/127387310-a9ba3ee5-82db-4eb6-b2e4-6a2fb7fb8bea.PNG" width=450 height=450 align="left" />
 
 ```yaml
-                  Something about me
+                Something about me
 ```
 ```
 🖐️: Almost everyone calls me Numer
