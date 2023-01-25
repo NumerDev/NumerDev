@@ -1,6 +1,6 @@
 ***<h2 align="center" color='red'>"You are remembered for the rules you break"</h2>***
 
-<img src="https://user-images.githubusercontent.com/65687304/127387310-a9ba3ee5-82db-4eb6-b2e4-6a2fb7fb8bea.PNG" width=450 height=450 align="left" />
+<img src="https://user-images.githubusercontent.com/65687304/127387310-a9ba3ee5-82db-4eb6-b2e4-6a2fb7fb8bea.PNG" width=450 height=450 align="left" alt="White Death by Adrian Cuevas" />
 
 ```yaml
                 Something about me
