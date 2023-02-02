@@ -77,9 +77,15 @@
 <div align="center">
   <sub>Just checking to see if anyone is looking here :eyes:</sub>
 </div>&ensp;
+
+<div align="center">
+  <a href="https://wakatime.com/@88d15cf8-7740-4cfc-a43d-62790e6b2904"><img src="https://wakatime.com/badge/user/88d15cf8-7740-4cfc-a43d-62790e6b2904.svg"    alt="Total time coded since Oct 4 2020" /></a>
+</div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=numerdev&label=Profile%20Visitors%20&color=blue&style=flat" alt="numerdev" />
 </div>
+
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=@Numer&layout=compact&custom_title=I%20wasn't%20lazy%20this%20week%20%20okay?&theme=tokyonight)-->
