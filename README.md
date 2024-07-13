@@ -15,7 +15,7 @@
 🥶: I really love the cold
 🌙: Night owl
 🧪: Software engineer by day, tester by night
-🏢: Fullstack Developer at DreamstormStudios
+🏢: Frontend/Fullstack/Tester/Designer
 🤤: Procrastination is my buddy 
     I'm trying to get rid of
 🧊: Cubes don't like me... any cubes
