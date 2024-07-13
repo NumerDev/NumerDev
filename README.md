@@ -35,12 +35,12 @@
 <img src="https://img.shields.io/badge/-Vite-%23f4f6f7?style=flat&logo=vite" alt="vite" />
 <img src="https://img.shields.io/badge/-Styled components-grey?style=flat&logo=styledcomponents" alt="styledcomponents" />
 <img src="https://img.shields.io/badge/-Nest-red?style=flat&logo=nestjs" alt="nestjs" />
-<img src="https://img.shields.io/badge/-Make-%23f4f6f7?style=flat&logo=integromat" alt="make" />
 <img src="https://img.shields.io/badge/-Prisma-grey?style=flat&logo=prisma" alt="prisma" />
 <img src="https://img.shields.io/badge/-GSAP-black?style=flat&logo=greensock" alt="gsap" />
 <img src="https://img.shields.io/badge/-Vitest-white?style=flat&logo=vitest" alt="vitest" />
-<img src="https://img.shields.io/badge/-storybook-pink?style=flat&logo=storybook" alt="storybook" />
-<img src="https://img.shields.io/badge/-cypress-white?style=flat&logo=cypress" alt="cypress" />
+<img src="https://img.shields.io/badge/-Storybook-pink?style=flat&logo=storybook" alt="storybook" />
+<img src="https://img.shields.io/badge/-Cypress-white?style=flat&logo=cypress" alt="cypress" />
+<img src="https://img.shields.io/badge/-Go-white?style=flat&logo=go" alt="golang" />
 </p>
 &nbsp;
 <hr>
