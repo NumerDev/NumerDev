@@ -75,7 +75,7 @@
 <hr>&nbsp;
 
 <div align="center">
-  <b>The reality is that most of the code I'm writing now is commercial.<br><a href="https://wakatime.com/@Numer">HERE</a> and below is my more relevant activity board than the github one.</b>
+  <b><h3>The reality is that most of the code I'm writing now is commercial.<br><a href="https://wakatime.com/@Numer">HERE</a> and below is my more relevant activity board than the github one.</h3></b>
 </div>&nbsp;
 
 <div align="center">
