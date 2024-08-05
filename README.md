@@ -72,7 +72,15 @@
   </ul>
 </details>
 
-<hr>
+<hr>&nbsp;
+
+<div align="center">
+  <b>The reality is that most of the code I'm writing now is commercial. <a href="https://wakatime.com/@Numer">HERE</a> and below is my more relevant activity board than the github one.</b>
+</div>&nbsp;
+
+<div align="center">
+  <img src="https://wakatime.com/share/@Numer/92e7bc7a-238c-4c23-bbe0-f37199d5bdb0.svg" />
+</div>&nbsp;&nbsp;&nbsp;
 
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=numerdev&theme=algolia" alt="numerdev" />
@@ -96,9 +104,3 @@
 <div align="center">
   Welp, it ain't much but it's honest work...
 </div>&ensp;
-
-<div align="center">
-The reality is that most of the code I'm writing now is commercial, which is why it's so empty here 
-</div>
-
-<!-- ![](https://github-readme-stats.vercel.app/api/wakatime?username=@Numer&layout=compact&custom_title=I%20wasn't%20lazy%20this%20week%20%20okay?&theme=tokyonight)-->
