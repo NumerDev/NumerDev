@@ -75,14 +75,6 @@
 <hr>&nbsp;
 
 <div align="center">
-  <b><h3>The reality is that most of the code I'm writing now is commercial.<br><a href="https://wakatime.com/@Numer">HERE</a> and below is my more relevant activity board than the github one.</h3></b>
-</div>&nbsp;
-
-<div align="center">
-  <img src="https://wakatime.com/share/@Numer/92e7bc7a-238c-4c23-bbe0-f37199d5bdb0.svg" />
-</div>&nbsp;&nbsp;&nbsp;
-
-<div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=numerdev&theme=algolia" alt="numerdev" />
 </div>
 <div align="center">
