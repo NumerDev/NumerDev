@@ -72,11 +72,19 @@
   </ul>
 </details>
 
-<hr>&nbsp;
+<hr>
+
+<div align="center">⏬ Coding time stats from wakatime ⏬</div>&nbsp
+
+<div align="center">
+  <img src="https://wakatime.com/share/@Numer/92e7bc7a-238c-4c23-bbe0-f37199d5bdb0.svg" />
+</div>
+
 
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=numerdev&theme=algolia" alt="numerdev" />
 </div>
+
 <div align="center">
   <sub>Just checking to see if anyone is looking here :eyes:</sub>
 </div>&ensp;
