@@ -10,12 +10,12 @@
 🏫: CS Engineer graduate
 🔎: I really like finding bugs
     (and exploit them sometimes... 😏)
-🖌️: Lately I've become really good at designing 
+🖌️: Lately I've become good at designing 
     in Figma even though I used to hate designing
 🥶: I really love the cold
 🌙: Night owl
 🧪: Software engineer by day, tester by night
-🏢: Frontend/Fullstack/Tester/Designer
+🏢: Frontend developer
 🤤: Procrastination is my buddy 
     I'm trying to get rid of
 🧊: Cubes don't like me... any cubes
