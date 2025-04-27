@@ -15,7 +15,6 @@
 🥶: I really love the cold
 🌙: Night owl
 🧪: Software engineer by day, tester by night
-🏢: Frontend developer
 🤤: Procrastination is my buddy 
     I'm trying to get rid of
 🧊: Cubes don't like me... any cubes
